@@ -19,7 +19,7 @@ Before you begin, ensure you have the following:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/gemini-cli-extensions/knowledge-catalog.git
+    git clone https://github.com/GoogleCloudPlatform/knowledge-catalog-plugin.git
     cd knowledge-catalog
     ```
 
@@ -64,8 +64,8 @@ The skills themselves are validated using the `skills-validate.yml` workflow.
 The primary maintainers for this repository are defined in the
 [`.github/CODEOWNERS`](.github/CODEOWNERS) file:
 
-*   `@gemini-cli-extensions/senseai-eco`
-*   `@gemini-cli-extensions/dataplex-maintainers`
+*   `@GoogleCloudPlatform/senseai-eco`
+*   `@GoogleCloudPlatform/knowledge-catalog-plugin-maintainers`
 
 ### Releasing
 
