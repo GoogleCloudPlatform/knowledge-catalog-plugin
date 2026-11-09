@@ -19,7 +19,7 @@ Before you begin, ensure you have the following:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/gemini-cli-extensions/knowledge-catalog.git
+    git clone https://github.com/GoogleCloudPlatform/knowledge-catalog-plugin.git
     cd knowledge-catalog
     ```
 

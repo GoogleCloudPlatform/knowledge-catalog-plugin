@@ -7,7 +7,7 @@
     "email": "data-cloud-ai-integrations@google.com"
   },
   "homepage": "https://cloud.google.com/dataplex",
-  "repository": "https://github.com/gemini-cli-extensions/knowledge-catalog",
+  "repository": "https://github.com/GoogleCloudPlatform/knowledge-catalog-plugin",
   "license": "Apache-2.0",
   "userConfig": {
     "dataplex_project": {
